@@ -12,7 +12,7 @@ $ git config user.email "John.Doe@example.com"
 
 ## For every repository (globally)
 
-You need the same data as [for a single repository](#For a single repository) only in addition with the git-option `--global` 
+You need the same data as [for a single repository](#for-a-single-repository) only in addition with the git-option `--global` 
 
 ```bash
 $ git config --global user.name "John Doe"
