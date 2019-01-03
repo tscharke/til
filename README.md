@@ -12,6 +12,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 ### Git
 
+- [Rename a local branch](git/rename_local_branch.md)
 - [Setting username and mail-address](git/setting_username_and_mail_address.md)
 
 ### Mac
@@ -33,4 +34,4 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 &copy; 2018-present Thomas Scharke
 
-This repository is licensed under the MIT license. See `LICENSE` for details.
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) for details.
