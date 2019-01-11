@@ -17,6 +17,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 ### Mac
 
+- [Safari zooming](mac/safari_zoom.md)
 - [Safari tab search](mac/safari_tab_search.md)
 
 ## About
