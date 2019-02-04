@@ -5,9 +5,13 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 These are small, daily-usage things that don't really warrant a full blog post. 
 
-### Categories
+## Categories
+* [Docker](#docker)
 * [Git](#git)
 * [Mac](#mac)
+
+### Docker
+- [Useful commands](docker/useful_commands.md)
 
 ### Git
 - [Rename a local branch](git/rename_local_branch.md)
