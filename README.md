@@ -27,7 +27,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Curling and readable json-response](unix/curl_readable_json_response.md)
 
 ## About
-[Josh Branchaud](https://github.com/jbranchaud)'s TIL inspired me to create my own TIL.
+[Josh Branchaud](https://github.com/jbranchaud)'s [TIL](https://github.com/jbranchaud/til) inspired me to create my own TIL.
 
 ## Other TIL Collections
 * [jbranchaud/til](https://github.com/jbranchaud/til)
