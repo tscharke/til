@@ -9,6 +9,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 * [Docker](#docker)
 * [Git](#git)
 * [Mac](#mac)
+* [Unix](#unix)
 
 ### Docker
 - [Useful commands](docker/useful_commands.md)
@@ -21,6 +22,9 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Volume control](mac/volume_control.md)
 - [Safari zooming](mac/safari_zoom.md)
 - [Safari tab search](mac/safari_tab_search.md)
+
+### Unix
+- [Curling and readable json-response](unix/curl_readable_json_response.md)
 
 ## About
 [Josh Branchaud](https://github.com/jbranchaud)'s TIL inspired me to create my own TIL.
