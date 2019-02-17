@@ -15,8 +15,9 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Useful commands](docker/useful_commands.md)
 
 ### Git
-- [Rename a local branch](git/rename_local_branch.md)
 - [Setting username and mail-address](git/setting_username_and_mail_address.md)
+- [Adding a remote](git/add_a_remote.md)
+- [Rename a local branch](git/rename_local_branch.md)
 
 ### Mac
 - [Volume control](mac/volume_control.md)
