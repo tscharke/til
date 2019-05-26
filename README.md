@@ -28,6 +28,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Volume control](mac/volume_control.md)
 - [Safari zooming](mac/safari_zoom.md)
 - [Safari tab search](mac/safari_tab_search.md)
+- [Add Spaces to the Dock](mac/add_spaces_to_dock.md)
 
 ### Unix
 
