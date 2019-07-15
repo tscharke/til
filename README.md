@@ -23,6 +23,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Adding a remote](git/add_a_remote.md)
 - [Rename a local branch](git/rename_local_branch.md)
 - [Amend commit](git/amend.md)
+- [Aliases](git/aliases.md)
 
 ### Mac
 
