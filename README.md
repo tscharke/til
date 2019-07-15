@@ -22,6 +22,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Setting username and mail-address](git/setting_username_and_mail_address.md)
 - [Adding a remote](git/add_a_remote.md)
 - [Rename a local branch](git/rename_local_branch.md)
+- [Amend commit](git/amend.md)
 
 ### Mac
 
