@@ -37,6 +37,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 - [AWK](bash/awk.md)
 - [Curling and readable json-response](bash/curl_readable_json_response.md)
+- [SED](bash/sed.md)
 
 ### VSCode
 
