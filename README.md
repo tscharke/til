@@ -7,12 +7,12 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 ## Categories
 
+- [Bash](#bash)
 - [Docker](#docker)
 - [Git](#git)
-- [Mac](#mac)
-- [Unix](#unix)
-- [Visual Studio Code](#vscode)
 - [JavaScript](#javascript)
+- [Mac](#mac)
+- [Visual Studio Code](#vscode)
 
 ### Docker
 
@@ -33,9 +33,9 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Safari tab search](mac/safari_tab_search.md)
 - [Add Spaces to the Dock](mac/add_spaces_to_dock.md)
 
-### Unix
+### Bash
 
-- [Curling and readable json-response](unix/curl_readable_json_response.md)
+- [Curling and readable json-response](bash/curl_readable_json_response.md)
 
 ### VSCode
 
