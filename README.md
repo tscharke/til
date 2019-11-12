@@ -12,6 +12,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Mac](#mac)
 - [Unix](#unix)
 - [Visual Studio Code](#vscode)
+- [JavaScript](#javascript)
 
 ### Docker
 
@@ -39,6 +40,10 @@ These are small, daily-usage things that don't really warrant a full blog post.
 ### VSCode
 
 - [Perform actions on save](vscode/actions_on_save.md)
+
+### JavaScript
+
+- [Reverse an array](javascript/reverse.md)
 
 ## About
 
