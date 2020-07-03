@@ -26,6 +26,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Amend commit](git/amend.md)
 - [Aliases](git/aliases.md)
 - [Push all tags](git/pushAllTags.md)
+- [Add a tag (force)](git/addTag.md)
 
 ### Mac
 
