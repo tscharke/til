@@ -25,6 +25,7 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Rename a local branch](git/rename_local_branch.md)
 - [Amend commit](git/amend.md)
 - [Aliases](git/aliases.md)
+- [Push all tags](git/pushAllTags.md)
 
 ### Mac
 
