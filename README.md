@@ -7,12 +7,17 @@ These are small, daily-usage things that don't really warrant a full blog post.
 
 ## Categories
 
-- [Bash](#bash)
-- [Docker](#docker)
-- [Git](#git)
-- [JavaScript](#javascript)
-- [Mac](#mac)
-- [Visual Studio Code](#vscode)
+- [TIL](#til)
+  - [Categories](#categories)
+    - [Docker](#docker)
+    - [Git](#git)
+    - [Mac](#mac)
+    - [Bash](#bash)
+    - [VSCode](#vscode)
+    - [JavaScript](#javascript)
+  - [About](#about)
+  - [Other TIL Collections](#other-til-collections)
+  - [License](#license)
 
 ### Docker
 
@@ -26,7 +31,8 @@ These are small, daily-usage things that don't really warrant a full blog post.
 - [Amend commit](git/amend.md)
 - [Aliases](git/aliases.md)
 - [Push all tags](git/pushAllTags.md)
-- [Add a tag (force)](git/addTag.md)
+- [Add/Set a tag (force)](git/addTag.md)
+  - [Tag a specific/older commit](git/addTag.md#Tag-a-specific/older-commit)
 
 ### Mac
 
